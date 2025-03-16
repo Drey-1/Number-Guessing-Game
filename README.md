@@ -1,5 +1,5 @@
 # 🎯 Number Guessing Game
-
+Idea : https://roadmap.sh/projects/number-guessing-game
 A simple **CLI (Command Line Interface)** number guessing game where the computer randomly selects a number, and the player tries to guess it within a limited number of attempts.
 
 ## 📜 Game Rules
